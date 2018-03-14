@@ -1,1 +1,2 @@
-puts "Hello World"
+ruby
+puts "hello_world"
